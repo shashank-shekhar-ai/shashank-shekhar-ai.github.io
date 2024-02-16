@@ -24,12 +24,12 @@ export default function PublicationCard({ pub, theme }) {
             {pub.description}
           </p>
           <div className="publication-details">
-            <p
+            {/* <p
               className="publication-creation-date subTitle"
               style={{ color: theme.secondaryText }}
             >
               Published on {pub.createdAt.split("T")[0]}
-            </p>
+            </p> */}
           </div>
           {/* <div className="repo-stats">
           <div className="repo-left-stat">

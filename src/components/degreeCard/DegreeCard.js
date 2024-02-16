@@ -40,20 +40,20 @@ class DegreeCard extends Component {
                   {degree.subtitle}
                 </h3>
               </div>
-              <div className="body-header-duration">
+              {/* <div className="body-header-duration">
                 <h3 className="duration" style={{ color: theme.text }}>
                   {degree.duration}
                 </h3>
-              </div>
+              </div> */}
             </div>
             <div className="body-content">
-              {degree.descriptions.map((sentence) => {
+              {/* {degree.descriptions.map((sentence) => {
                 return (
                   <p className="content-list" style={{ color: theme.text }}>
                     {sentence}
                   </p>
                 );
-              })}
+              })} */}
               {degree.website_link && (
                 <a
                   href={degree.website_link}
@@ -65,7 +65,7 @@ class DegreeCard extends Component {
                     style={{ backgroundColor: theme.headerColor }}
                   >
                     <p className="btn" style={{ color: theme.text }}>
-                      Visit Website
+                      Visit
                     </p>
                   </div>
                 </a>
