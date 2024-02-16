@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Shashank's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Shashank Shekhar Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -19,13 +19,13 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Shashank Shekar",
+  logo_name: "ShashankShekhar",
+  nickname: "Hands-on AI Leader",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Experienced and accomplished executive with 16+ years’ experience in Digitech and a focus on leveraging advanced and  emerging technologies like Artificial Intelligence (AI), Machine Learning (ML), Data Engineering, Deep Learning, and Computer Vision for use in B2C and B2B.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/102TUowPUkb-0CaYqGNPMQSdKPdlyWrLh/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/ashutosh1919",
 };
@@ -48,7 +48,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh1919/",
+    link: "https://www.linkedin.com/in/shashank-shekhar-au",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -60,7 +60,7 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:quintshekhar@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -380,30 +380,256 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "Invited Panellist - Shaastra, IIT Madras",
+      subtitle: "Ethical Tech Summit (Integration of Ethical Ideas in Emerging Tech)– 2024",
+      logo_path: "p1.jpg",
+      alt_name: "",
+      duration: "",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ The event will be aimed at involving and educating our audience in areas such as responsible AI, cybersecurity, bio-engineering, and dataprivacy, with the goal of fostering collaboration and understanding between industry and passionate delegates ranging from researchers, professionals, law officials, and other stakeholders on the responsible use of technology from January 4 to 6, 2024, as a part of Shaastra.",
+        
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.linkedin.com/posts/reachiitm_ethicaltechnology-emergingtechnologies-cybersecurity-activity-7145402080936013825-_GUg/?utm_source=share&utm_medium=member_desktop",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      title: "Invited Presenter - PyData Global",
+      subtitle: "(LLMs: Beyond the Hype - A Practical Journey to Scale) - 2023",
+      logo_path: "p2.jpeg",
+      alt_name: "",
+      duration: "",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://global2023.pydata.org/cfp/talk/73ZC3W/",
+    },
+    {
+      title: "Invited Speaker - Shaastra, IIT Madras",
+      subtitle: "(Navigating the Shift: Comparing and Contrasting Applied Machine Learning in Academia and Industry) – 2023",
+      logo_path: "p3.png",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During the event, Shashank delivered a thought-provoking lecture entitled 'Navigating the Shift: Comparing and Contrasting Applied Machine Learning in Academia and Industry.'",
+        
+      ],
+      website_link: "https://www.linkedin.com/posts/subex-ai-labs_generative-ai-in-the-spotlight-shaastra-activity-7027143011532771328-_Xk5/?utm_source=share&utm_medium=member_desktop",
+    },
+    {
+      title: "Invited Panellist – GTX and Nasscom AI",
+      subtitle: "(Generative AI: The Next Wave of Disruptive Innovation) - 2023",
+      logo_path: "p4.jpeg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ Global Talent Exchange recently organized a virtual roundtable discussion as part of our Technology Game Changers Series on “Generative AI: The Next Wave Of Disruptive Innovation”. The panel consisted of 9 distinguished industry leaders who brought their passion, energy, and expertise to the discussion, actively engaging in thought-provoking discourse and sharing invaluable perspectives.",
+        
+      ],
+      website_link: "https://globaltalex.com/post_details/Generative%20AI:%20The%20Next%20Wave%20Of%20Disruptive%20Innovation",
+    },
+    {
+      title: "Invited Speaker - At the 'Transforming Business through Operations Technology 2023' conclave hosted by SBUP Pune",
+      subtitle: "(LLMs: Beyond the Hype - A Practical Journey to Scale) - 2023",
+      logo_path: "p5.jpg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.youtube.com/watch?v=eb2nTJxUoIU",
+    },
+    {
+      title: "Invited Panellist - Shaastra, IIT Madras",
+      subtitle: "(Generative AI: The Future of Content Creation) – 2023",
+      logo_path: "p6.jpg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.linkedin.com/posts/shaastra-iit-madras_are-you-curious-about-the-future-of-artificial-activity-7024482171348279296-WRJW/?utm_source=share&utm_medium=member_desktop",
+    },
+    {
+      title: "Panellist (with fellow panellist Indrajit Kar, Head of AI at Siemens)",
+      subtitle: "HyperSense Webinar (Laying MLOPs foundation Operationalizing AI at scale) - 2023",
+      logo_path: "p7.png",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://vimeo.com/801518492",
+    },
+    {
+      title: "Invited Panellist - Cisco & Proactive Leadership Knowledge Turf",
+      subtitle: "(Improving Cyber Security for Businesses) – 2022",
+      logo_path: "p8.jpg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.youtube.com/watch?v=DANWKVggc2E",
+    },
+    {
+      title: "Invited Presenter - PyData Global",
+      subtitle: "(Generate Actionable Counterfactuals using Multi-objective Particle Swarm Optimization) - 2022",
+      logo_path: "p2.jpeg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://global2022.pydata.org/cfp/talk/7BCESD/",
+    },
+    {
+      title: "Invited Presenter - PyData Global",
+      subtitle: "(Measurement of Trust in AI) - 2022",
+      logo_path: "p10.jpg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.youtube.com/watch?v=nGeDPvneDs0",
+    },
+    {
+      title: "Fireside Chat with Zabi Ulla, Product Head AI Lab (Subex) on Democratising AI",
+      subtitle: "The challenges and roles of AI in the ecosystem and how democratising AI will help overcome them - 2022",
+      logo_path: "p11.png",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://info.subex.com/democratizing-ai?utm_source=linkedin&utm_medium=social&utm_campaign=Democratize-ai",
+    },
+    {
+      title: "Fireside Chat with Zabi Ulla, Product Head AI Lab and Arundeep Sivaraj, Director, Business Consulting (Subex) on Demystifying the Black Box AI",
+      subtitle: "The effects of Black Box AI and ways to transform it into more explainable AI - 2022",
+      logo_path: "p2.jpeg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://info.subex.com/demystifying-the-black-box-ai?utm_source=linkedin&utm_medium=social&utm_campaign=blackbox-ai",
+    },
+    {
+      title: "Invited Presenter/Panellist - Lintas Teknologi Solutions Day",
+      subtitle: "(Democratising AI Using HyperSense AI Studio) - 2021",
+      logo_path: "p13.jpg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.youtube.com/watch?v=YjF0cjSWD9g",
+    },
+    {
+      title: "Invited Presenter - Shaastra, IIT Madras",
+      subtitle: "(From Student to Data Scientist: How Applied Machine Learning changes from Academia to Industry) - 2021",
+      logo_path: "p2.jpeg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.linkedin.com/posts/shaastra-iit-madras_industry-student-datascience-activity-6770555109521932288-KYLH/?utm_source=share&utm_medium=member_desktop",
+    },
+    {
+      title: "Invited Presenter - PyData Global",
+      subtitle: "(Counter Factual Analysis for Explainable AI) - 2021",
+      logo_path: "p2.jpeg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.youtube.com/watch?v=DgzyKrLxIaU",
+    },
+    {
+      title: "Invited Presenter - PyData Global",
+      subtitle: "(Using Dominance Analysis for accurate and intuitive feature importance) - 2020",
+      logo_path: "p2.jpeg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.youtube.com/watch?v=IuX5godOggs",
+    },
+    {
+      title: "Invited Presenter - Plugin (virtual)",
+      subtitle: "(Leveraging Game Theory for Explainable AI (XAI)) - 2020",
+      logo_path: "p17.jpg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.youtube.com/watch?v=96tHN54VO2U&feature=youtu.be",
+    },
+    {
+      title: "Invited Presenter - RAG Americas Online",
+      subtitle: "(Active Risk Intelligence for Telcos) - 2020",
+      logo_path: "p18.avif",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://vimeo.com/462319856",
+    },
+    {
+      title: "Speaker (with fellow speaker Sam Pritchett, Head of Channel Strategy and Analytics at Atlassian)",
+      subtitle: "CrunchMetrics & Atlassian Webinar (How to transform B2B partner experience and customer experience with analytics) - 2020",
+      logo_path: "p2.jpeg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.subex.com/",
+    },
+    {
+      title: "Invited Panel Speaker (with fellow speaker Krishnendu Majumdar, Vice President of Catalog at Flipkart)",
+      subtitle: "CrunchMetrics & Flipkart Webinar (Driving rich customer experience through intelligent catalog management) - 2020",
+      logo_path: "p2.jpeg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://www.subex.com/",
+    },
+    {
+      title: "Invited Speaker - APAC Data Innovation Summit",
+      subtitle: "Summit (Leveraging AI for next generation revolution in Telecom Industry) - 2020",
+      logo_path: "p2.jpeg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡ During this presentation, I will delve into practical strategies aimed at achieving a delicate balance: reducing inference costs while simultaneously elevating model performance, enhancing quality, and optimizing latency.",
+        
+      ],
+      website_link: "https://apac.datainnovationsummit.com/home/",
     },
   ],
 };
@@ -411,113 +637,51 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      title: "LLMs: Beyond the Hype - A Practical Journey to Scale",
+      subtitle: "Shashank Shekhar, Founder of AIOrdinate speaking at PyData Global 2023",
+      logo_path: "v1.jpg",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "https://youtu.be/ooTelEWDUzA",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "Measurement of Trust in AI | PyData Global 2022",
+      subtitle: "Shashank Shekhar talking about key constructs of AI Trust and a framework of AI Trust Calculation",
+      logo_path: "v2.jpg",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+        "https://youtu.be/nGeDPvneDs0",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
+      title: "Counter Factual Analysis for Explainable AI (XAI)",
+      subtitle: "Shashank Shekhar speaking at PyData Global 2021 about Counter Factual Analysis and its application in Explainable AI",
+      logo_path: "v3.jpg",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://youtu.be/DgzyKrLxIaU",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
     {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
+      title: "Using Dominance Analysis for accurate feature importance",
+      subtitle: "Shashank Shekhar speaking at PyData Global 2020 about Dominance Analysis Python library and its application in Explainable AI",
+      logo_path: "v4.jpg",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+        "https://youtu.be/IuX5godOggs",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
     {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
+      title: "Leveraging Game Theory for Explainable AI (XAI)",
+      subtitle: "Shashank Shekhar speaking at Plugin 2020 about a game theory based approach for Explainable AI",
+      logo_path: "v5.jpg",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+        "https://youtu.be/RJx9zyqc61I",
       alt_name: "Microsoft",
       color_code: "#D83B0199",
     },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
+    
   ],
 };
 
@@ -673,9 +837,9 @@ const experience = {
 
 // Projects Page
 const projectsHeader = {
-  title: "Projects",
+  title: "Patents",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "Transforming Ideas into Patented Innovations: Spearheading cutting-edge solutions for real-world challenges.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -690,43 +854,132 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "Python library exploripy for automated and comprehensive exploratory data analysis",
+      description: "Shashank Shekhar, Kunjithapatham Sivakumar, Sajan Bhagat",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://github.com/exploripy/exploripy",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "Python library Dominance-Analysis for Accurate and Intuitive Relative Importance of Predictors",
+      
+      description: "Shashank Shekhar, Kunjithapatham Sivakumar, Sajan Bhagat",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://dominance-analysis.readthedocs.io/en/latest/",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "A PSO Based Method to Generate Actionable Counterfactuals for High Dimensional Data. arXiv e-prints, arXiv-2311 (presented at IEEE CSDE 2023, Fiji)",
+      description: "Shekhar S., Salim A.,Bansode A.,Jinturkar V. & Nayak A.",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://arxiv.org/abs/2311.12825",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
+      name: "Datum: A System for TFRecord Dataset Management.(2021)",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      description: "Haloi, Mrinal, and Shashank Shekhar ",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://www.researchgate.net/profile/Mrinal-Haloi/publication/353760472_Datum_A_System_for_TFRecord_Dataset_Management/links/610f88f51ca20f6f860b6256/Datum-A-System-for-TFRecord-Dataset-Management.pdf",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
+      name: "A Comparative study of Hyper-Parameter Optimization Tools, 2021 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE), 2021, pp. 1-6, doi:10.1109/CSDE53843.2021.9718485 (presented at IEEE CSDE 2021, Brisbane, Australia)",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      description: "S. Shekhar, A. Bansode and A. Salim",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://ieeexplore.ieee.org/abstract/document/9718485",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "Table Detection in the Wild: A Novel Diverse Table Detection Dataset and Method.arXiv preprint arXiv:2209.09207 (2022)",
+      description: "Shashank Shekhar, Haloi, Mrinal, Nikhil Fande, and Siddhant Swaroop Dash",
+      url:
+        "https://arxiv.org/abs/2209.09207",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "List Price Optimisation Using Customised Decision Trees (presented at ICDM 2016, New York, USA) Springer ICDM 2016: 438-444",
+      description: "Shashank Shekhar, R. Kiran, John Kiran, K. Raghava Rau, Sam Pritchett, Anit Bhandari, Parag Chitalia",
+      url:
+        "https://www.springerprofessional.de/en/list-price-optimization-using-customized-decision-trees/10290568",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "List Price Optimisation Using Customised Decision Trees (presented at MLDM 2016, New York, USA) Springer MLDM 2016: 88-97",
+      description: "Shashank Shekhar, R. Kiran, John Kiran, K. Raghava Rau, Sam Pritchett, Anit Bhandari, Parag Chitalia",
+      url:
+        "https://link.springer.com/chapter/10.1007/978-3-319-41920-6_7",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "Simulation based Approach for Special Discounting Threshold. Transactions on Machine Learning and Data Mining 10(2), 57-65 (2017)",
+      description: "Shashank Shekhar, Kaushik Shankar, Sushanta Kumar Mishra, Sam Pritchett , Chitalia P.",
+      url:
+        "http://www.ibai-publishing.org/journal/issue_mldm/2017_October/mldm_10_2_57_65.php",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "Simulation Based Approach for Special Discounting Threshold(presented at ICDM 2017, New York, USA) ICDM 2017: 63-92",
+      description: "Shashank Shekhar, Kaushik Shankar, Bishwarup Bhattacharjee, Sushanta Kumar Mishra, Sam Pritchett, Parag Chitalia",
+      url:
+        "https://www.data-mining-forum.de/books/icdmposter2017.pdf",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "An Ensemble Model for Face Liveness Detection.arXiv e-prints (2022): arXiv-2201 (presented at MLDS 2022). Published in Lattice journal",
+      description: "Shekhar S.",
+      url:
+        "https://adasci.org/journals/62fb76edab43b210129ef4ff",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "“Business Survey OMR Sheet Scanning and Reading Using Webcam as OMR Reader” (presented at MDA 2017, New York, USA) MDA 2017: 55-63",
+      description: "Shashank Shekhar, Kushal Lokhande, Sushanta Mishra, Sam Pritchett, Parag Chitalia, Akash",
+      url:
+        "http://www.mda-signals.de/books/mda2017.pdf",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "“A Quantitative Framework for Enhancing the Testing Capacity of COVID-19 in India” (published in Analytics India Magazine on April 14th)",
+      description: "Shekhar S.",
+      url:
+        "https://analyticsindiamag.com/a-quantitative-framework-for-enhancing-the-testing-capacity-of-covid-19-in-india/",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "“A Quantitative Framework for Expanding Testing Capacity of COVID-19 in India”. DOI:10.31124/advance.12117786",
+      description: "Shekhar S.",
+      url:
+        "https://advance.sagepub.com/articles/preprint/A_Quantitative_Framework_for_Expanding_Testing_Capacity_of_COVID-19_in_India/12117786",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "“Beyond Explainable AI—How to infuse trust in AI systems” (published in Analytics India Magazine)",
+      description: "Shekhar S.",
+      url:
+        "https://analyticsindiamag.com/council-post-beyond-explainable-ai-how-to-infuse-trust-in-ai-systems/",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "“Global guidelines for building trustworthy AI” (published in Analytics India Magazine)",
+      description: "Shekhar S.",
+      url:
+        "https://analyticsindiamag.com/global-guidelines-for-building-trustworthy-ai/",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "“How AI is shaping the future of telecoms operators” (published in Telemedia Online)",
+      description: "Shekhar S.",
+      url:
+        "https://www.telemediaonline.co.uk/how-ai-is-shaping-the-future-of-telecoms-operators/",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "“Why AI is the Catalyst in Transforming the Telecom Industry” (published in RTInsights.com)",
+      description: "Shekhar S.",
+      url:
+        "https://www.rtinsights.com/why-ai-is-the-catalyst-in-transforming-the-telecom-industry/",
     },
   ],
 };

@@ -29,19 +29,20 @@ class Education extends Component {
               </div>
               <div className="heading-text-div">
                 <h1 className="heading-text" style={{ color: theme.text }}>
-                  Education
+                  Talks
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Basic Qualification and Certifcations
+                  Youtube Talks By Shashank Shekhar
                 </h3>
-                <CompetitiveSites logos={competitiveSites.competitiveSites} />
+                {/* <CompetitiveSites logos={competitiveSites.competitiveSites} /> */}
               </div>
             </div>
           </Fade>
-          <Educations theme={this.props.theme} />
           {certifications.certifications.length > 0 ? (
             <Certifications theme={this.props.theme} />
           ) : null}
+          <Educations theme={this.props.theme} />
+         
         </div>
         <Footer theme={this.props.theme} />
         <TopButton theme={this.props.theme} />

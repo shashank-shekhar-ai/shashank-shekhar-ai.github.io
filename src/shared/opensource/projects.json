@@ -2,113 +2,95 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "Methods and systems for secure face liveness detection",
+      "createdAt": "2024-01-18T16:26:54Z",
+      "url": "https://drive.google.com/file/d/1jaD28QaJ8mWrplLOsRPCEkPjGITZTNLS/view?usp=sharing",
+      "description": "Patent Pub no. US 2024/0021020 filed under US jurisdiction (USPTO)",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "",
+          "iconifyClass": ""
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "",
+          "iconifyClass": ""
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "",
+          "iconifyClass": ""
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "",
+          "iconifyClass": ""
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "Methods and systems for correcting skew in images",
+      "createdAt": "2022-04-15T20:41:33Z",
+      "url": "https://drive.google.com/file/d/15eQQHdOzP4UHJDJRfoZrrjumfGHNachZ/view?usp=sharing",
+      "description": "Patent Publication no. 15/2022 filed under India jurisdiction.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "",
+          "iconifyClass": ""
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "Systems and methods for extracting named attributes from document media",
+      "createdAt": "2023-09-01T14:50:20Z",
+      "url": "https://drive.google.com/file/d/1S1_wLuIaY0P1fyLPW5jsc2rPYtZV39m3/view?usp=sharing",
+      "description": "Patent Publication no. 35/2023 filed under India jurisdiction.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "",
+          "iconifyClass": ""
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "",
+          "iconifyClass": ""
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "",
+          "iconifyClass": ""
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "",
+          "iconifyClass": ""
         }
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "Systems and methods for orientation and direction aware text detection in media",
+      "createdAt": "2023-05-05T17:56:07Z",
+      "url": "https://drive.google.com/file/d/109ToOF6gHUqD15ta_wNyJcoC-BaCaPPo/view?usp=sharing",
+      "description": "Patent Publication no. 18/2023 filed under India jurisdiction.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "",
+          "iconifyClass": ""
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "name": "A fundus image quality assessment system",
+      "createdAt": "2019-04-26T06:36:41Z",
+      "url": "https://drive.google.com/file/d/1NylabRe2mo-Fa5Y_8g_a5UHUnlibkRSU/view?usp=sharing",
+      "description": "Patent Publication no. 17/2019 filed under India jurisdiction.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "",
+          "iconifyClass": ""
         }
       ]
     }
