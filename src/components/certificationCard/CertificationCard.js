@@ -26,11 +26,11 @@ class CertificationCard extends Component {
                   alt={certificate.alt_name}
                 />
               </div>
-              <div className="content-details fadeIn-top">
+              {/* <div className="content-details fadeIn-top">
                 <h3 className="content-title" style={{ color: theme.body }}>
                   Open in Youtube 
                 </h3>
-              </div>
+              </div> */}
             </a>
           </div>
           <div className="cert-body">

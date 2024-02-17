@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Shashank Shekhar Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "#",
   },
 };
 
@@ -26,8 +26,8 @@ const greeting = {
     "Experienced and accomplished executive with 16+ years’ experience in Digitech and a focus on leveraging advanced and  emerging technologies like Artificial Intelligence (AI), Machine Learning (ML), Data Engineering, Deep Learning, and Computer Vision for use in B2C and B2B.",
   resumeLink:
     "https://drive.google.com/file/d/102TUowPUkb-0CaYqGNPMQSdKPdlyWrLh/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "#",
+  githubProfile: "#",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "#",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -54,7 +54,7 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
+    link: "#",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
@@ -66,19 +66,19 @@ const socialMediaLinks = [
   },
   {
     name: "X-Twitter",
-    link: "https://twitter.com/ashutosh_1919",
+    link: "#",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
+    link: "#",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "#",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -687,151 +687,206 @@ const certifications = {
 
 // Experience Page
 const experience = {
-  title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  title: "Career Summary",
+  subtitle: "",
   description:
     "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
+      title: "Career Details",
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "Head – Global AI Practice",
+          company: "Subex Limited, ",
+          
+          logo_path: "l1.png",
+          duration: "AUG 2019 to PRESENT",
+          location: "Bangalore, India",
           description:
             "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
+          title: "Head - Data Sciences, Transformative Projects, Data-Sciences CoE",
+          company: "VMware Inc",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          logo_path: "l3.jpg",
+          duration: "OCT 2014 to AUG 2019",
+          location: "Bangalore, India",
           description:
             "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
+          title: "Analytics Lead - Marketing and CS",
+          company: "Flipkart.com",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          logo_path: "l4.jpg",
+          duration: "MAY 2014 to OCT 2014",
+          location: "Bangalore, India",
           description:
             "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
           color: "#fc1f20",
         },
-      ],
-    },
-    {
-      title: "Internships",
-      experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
+          title: "Business Analyst II (Business Analytics Manager) - International Expansion",
+          company: "Amazon.com",
+          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "l2.png",
+          duration: "APR 2013 to APR 2014",
+          location: "Bangalore, India",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
-          color: "#000000",
+            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          color: "#9b1578",
         },
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
+          title: "Business Analyst II (Business Analytics Manager) - Inventory Management",
+          company: "Amazon.com",
+          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "l2.png",
+          duration: "NOV 2012 to APR 2013",
+          location: "Hyderabad, India",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
+            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          color: "#9b1578",
         },
         {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
+          title: "Analytics Lead - Research & Development, Pricing, Marketing & Merchandising",
+          company: "Target Corporation India Ltd",
+          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "l5.webp",
+          duration: "JAN 2011 to OCT 2012",
+          location: "Bangalore, India",
           description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
-        },
-      ],
-    },
-    {
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
-          color: "#4285F4",
+            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          color: "#9b1578",
         },
         {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
+          title: "Lead Analyst - Guest Insights",
+          company: "Target Corporation India Ltd",
+          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "l5.webp",
+          duration: "MAR 2009 to JAN 2011",
+          location: "Bangalore, India",
           description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
+            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          color: "#9b1578",
         },
         {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          title: "Business Analyst - Marketing Analytics",
+          company: "Marketics Technologies Private Limited",
+          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "muffito_logo.png",
+          duration: "MAY 2007 to MAR 2009",
+          location: "Bangalore, India",
           description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-          color: "#000000",
-        },
-        {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
-        },
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717",
+            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          color: "#9b1578",
         },
       ],
     },
+    // {
+    //   title: "Internships",
+    //   experiences: [
+    //     {
+    //       title: "Machine Learning Intern",
+    //       company: "TikTok Inc.",
+    //       company_url: "https://www.tiktok.com/en/",
+    //       logo_path: "tiktok_logo.png",
+    //       duration: "May 2022 - Aug 2022",
+    //       location: "San Francisco, USA",
+    //       description:
+    //         "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+    //       color: "#000000",
+    //     },
+    //     {
+    //       title: "Data Science Research Intern",
+    //       company: "Delhivery Pvt. Ltd.",
+    //       company_url: "https://www.delhivery.com/",
+    //       logo_path: "delhivery_logo.png",
+    //       duration: "May 2019 - Sept 2019",
+    //       location: "Gurgaon, Haryana",
+    //       description:
+    //         "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+    //       color: "#ee3c26",
+    //     },
+    //     {
+    //       title: "Data Science Intern",
+    //       company: "Intel Indexer LLC",
+    //       company_url:
+    //         "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+    //       logo_path: "intel_logo.jpg",
+    //       duration: "Nov 2018 - Dec 2018",
+    //       location: "Work From Home",
+    //       description:
+    //         "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+    //       color: "#0071C5",
+    //     },
+    //   ],
+    // },
+    // {
+    //   title: "Volunteerships",
+    //   experiences: [
+    //     {
+    //       title: "Google Explore ML Facilitator",
+    //       company: "Google",
+    //       company_url: "https://about.google/",
+    //       logo_path: "google_logo.png",
+    //       duration: "June 2019 - April 2020",
+    //       location: "Hyderabad, Telangana",
+    //       description:
+    //         "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+    //       color: "#4285F4",
+    //     },
+    //     {
+    //       title: "Microsoft Student Partner",
+    //       company: "Microsoft",
+    //       company_url: "https://www.microsoft.com/",
+    //       logo_path: "microsoft_logo.png",
+    //       duration: "Aug 2019 - May 2020",
+    //       location: "Hyderabad, Telangana",
+    //       description:
+    //         "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+    //       color: "#D83B01",
+    //     },
+    //     {
+    //       title: "Mozilla Campus Captain",
+    //       company: "Mozilla",
+    //       company_url: "https://www.mozilla.org/",
+    //       logo_path: "mozilla_logo.png",
+    //       duration: "Oct 2019 - May 2020",
+    //       location: "Kurnool, Andhra Pradesh",
+    //       description:
+    //         "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
+    //       color: "#000000",
+    //     },
+    //     {
+    //       title: "Developer Students Club Member",
+    //       company: "DSC IIITDM Kurnool",
+    //       company_url:
+    //         "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
+    //       logo_path: "dsc_logo.png",
+    //       duration: "Jan 2018 - May 2020",
+    //       location: "Kurnool, Andhra Pradesh",
+    //       description:
+    //         "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
+    //       color: "#0C9D58",
+    //     },
+    //     {
+    //       title: "Developer Program Member",
+    //       company: "Github",
+    //       company_url: "https://github.com/",
+    //       logo_path: "github_logo.png",
+    //       duration: "July 2019 - PRESENT",
+    //       location: "Work From Home",
+    //       description:
+    //         "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+    //       color: "#181717",
+    //     },
+    //   ],
+    // },
   ],
 };
 
@@ -1017,6 +1072,94 @@ const contactPageData = {
   },
 };
 
+
+const awards = {
+  awards: [
+    {
+      title: "Top Corporate Leader",
+      subtitle: "Prestigious award given by Home Minister of Govt. of Karnataka",
+      logo_path: "a.webp",
+      certificate_link:
+        "#",
+      alt_name: "Microsoft",
+      color_code: "#D83B0199",
+    },
+    {
+      title: "Top 50 Corporate Leader",
+      subtitle: "Prestigious award given by CEO Global Forum at Top CEOs’ Summit",
+      logo_path: "a1.jpg",
+      certificate_link:
+        "https://www.linkedin.com/feed/update/urn:li:activity:7076823459107926016/?utm_source=share&utm_medium=member_desktop",
+      alt_name: "",
+      color_code: "#8C151599",
+    },
+    {
+      title: "Runner-Up - Aegis Graham Bell Awards ",
+      subtitle: "Represented Subex - 2022",
+      logo_path: "a2.jpg",
+      certificate_link:
+        "https://www.linkedin.com/posts/aegis-graham-bell-award_india-innovation-technology-activity-6902829421473202176-oXQw/?utm_source=share&utm_medium=member_desktop",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
+    {
+      title: "40 Under 40 Data Scientist",
+      subtitle: "Prestigious award recognising analytics industry innovators and achievers – 2022",
+      logo_path: "a3.jpg",
+      certificate_link:
+        "https://analyticsindiamag.com/40-under-40-data-scientists-2022-who-are-they/",
+      alt_name: "Google",
+      color_code: "#0C9D5899",
+    },
+    {
+      title: "Honorary Mention - Global Opex2020 Awards",
+      subtitle: "judged second-best digital transformation project) - 2020",
+      logo_path: "a4.jpg",
+      certificate_link:
+        "https://www.processexcellencenetwork.com/events-opexweek/opex-awards",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "Leader of the Year Award - Subex",
+      subtitle: "For creating a significant impact externally and internally - 2019 - 2020",
+      logo_path: "a.webp",
+      certificate_link:
+        "https://youtu.be/RJx9zyqc61I",
+      alt_name: "Microsoft",
+      color_code: "#D83B0199",
+    },
+    {
+      title: "Selected Committee Member",
+      subtitle: "International Conference on Machine Learning and Data Mining (MLDM) - 2017",
+      logo_path: "a.webp",
+      certificate_link:
+        "https://link.springer.com/content/pdf/bfm:978-3-319-62416-7/1.pdf",
+      alt_name: "Microsoft",
+      color_code: "#D83B0199",
+    },
+    {
+      title: "Company awards from VMWare ",
+      subtitle: "CTO Award for developing unique IP solution on list price optimisation",
+      logo_path: "a.webp",
+      certificate_link:
+        "#",
+      alt_name: "Microsoft",
+      color_code: "#D83B0199",
+    },
+    {
+      title: "Target India ",
+      subtitle: "Leadership Excellence Award and Best Team Leadership Award, both for design of campus induction training",
+      logo_path: "a.webp",
+      certificate_link:
+        "#",
+      alt_name: "Microsoft",
+      color_code: "#D83B0199",
+    },
+    
+  ],
+};
+
 export {
   settings,
   seo,
@@ -1026,6 +1169,7 @@ export {
   competitiveSites,
   degrees,
   certifications,
+  awards,
   experience,
   projectsHeader,
   publicationsHeader,

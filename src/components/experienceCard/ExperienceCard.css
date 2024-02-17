@@ -177,6 +177,7 @@
 .experience-card-heading-right {
   float: right;
   margin-left: auto;
+  padding-left: 10px;
   margin-right: 10px;
 }
 
