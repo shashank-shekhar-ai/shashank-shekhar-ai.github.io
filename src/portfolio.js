@@ -771,7 +771,7 @@ const experience = {
           title: "Business Analyst - Marketing Analytics",
           company: "Marketics Technologies Private Limited",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
+          logo_path: "l7.jpg",
           duration: "MAY 2007 to MAR 2009",
           location: "Bangalore, India",
           description:
@@ -1044,20 +1044,20 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://aiordinate.com/blog",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+      "11, Marengo Street, Tarneit, Victoria, Australia 3029",
+    locality: "Tarneit",
+    country: "AUS",
+    region: "Victoria",
+    postalCode: "3029",
+    streetAddress: "11, Marengo Street",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://www.google.com/maps/place/11+Marengo+St,+Tarneit+VIC+3029,+Australia/@-37.8391068,144.6861474,17z/data=!3m1!4b1!4m6!3m5!1s0x6ad68ecfca119ddd:0x1bc3c9c9254145d5!8m2!3d-37.8391111!4d144.6887223!16s%2Fg%2F11c19pb1wy?entry=ttu",
   },
   phoneSection: {
     title: "",
