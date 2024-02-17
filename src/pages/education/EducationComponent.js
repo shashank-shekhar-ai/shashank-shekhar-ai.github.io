@@ -32,7 +32,7 @@ class Education extends Component {
                   Talks
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Youtube Talks By Shashank Shekhar
+                By Global AI Leader Shashank Shekhar
                 </h3>
                 {/* <CompetitiveSites logos={competitiveSites.competitiveSites} /> */}
               </div>
