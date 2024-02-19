@@ -34,7 +34,7 @@ class Opensource extends Component {
                   Awards & Recognition
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                Celebrating Achievements: Honors and <br/><br/> Acknowledgments
+                Celebrating Achievements: Honors and <br/>Acknowledgments
                 </h3>
                 {/* <CompetitiveSites logos={competitiveSites.competitiveSites} /> */}
               </div>

@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Shashank Shekar",
+  title: "Shashank Shekhar",
   logo_name: "ShashankShekhar",
   nickname: "Hands-on AI Leader",
   subTitle:
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "#",
+    link: "https://github.com/quintshekhar",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -64,6 +64,24 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
+  {
+    name: "Discord",
+    link: "https://discord.com/invite/zrWMccMGFN",
+    fontAwesomeIcon: "fa-brands fa-discord", // Reference https://fontawesome.com/icons/google?style=brands
+    backgroundColor: "#7289da", // Reference https://simpleicons.org/?q=gmail
+  },
+  {
+    name: "WhatsApp",
+    link: "https://api.whatsapp.com/send/?phone=61390133757&text&type=phone_number&app_absent=0",
+    fontAwesomeIcon: "fa-brands fa-whatsapp", // Reference https://fontawesome.com/icons/google?style=brands
+    backgroundColor: "#25D366", // Reference https://simpleicons.org/?q=gmail
+  },
+  {
+    name: "Topmate",
+    link: "mailto:quintshekhar@gmail.com",
+    fontAwesomeIcon: "fa-solid fa-c", // Reference https://fontawesome.com/icons/google?style=brands
+    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=gmail
+  },
   
 ];
 
@@ -73,9 +91,10 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Crafting robust and scalable production-ready models tailored to diverse machine learning and deep learning applications.",
+         "⚡ Proficiency in executing projects in both Computer Vision and Natural Language Processing domains.",
+          "⚡ Specialized in intricate quantitative modelling for dynamic forecasting and comprehensive time series analysis.",
+          "⚡ Demonstrated expertise in developing products and applications leveraging proprietary as well as open-source LLMs."
       ],
       softwareSkills: [
         {
@@ -114,96 +133,97 @@ const skills = {
         },
       ],
     },
+    // {
+    //   title: "Full Stack Development",
+    //   fileName: "FullStackImg",
+    //   skills: [
+    //     "⚡ Building responsive website front end using React-Redux",
+    //     "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+    //     "⚡ Creating application backend in Node, Express & Flask",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "HTML5",
+    //       fontAwesomeClassname: "simple-icons:html5",
+    //       style: {
+    //         color: "#E34F26",
+    //       },
+    //     },
+    //     {
+    //       skillName: "CSS3",
+    //       fontAwesomeClassname: "fa-css3",
+    //       style: {
+    //         color: "#1572B6",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Sass",
+    //       fontAwesomeClassname: "simple-icons:sass",
+    //       style: {
+    //         color: "#CC6699",
+    //       },
+    //     },
+    //     {
+    //       skillName: "JavaScript",
+    //       fontAwesomeClassname: "simple-icons:javascript",
+    //       style: {
+    //         backgroundColor: "#000000",
+    //         color: "#F7DF1E",
+    //       },
+    //     },
+    //     {
+    //       skillName: "ReactJS",
+    //       fontAwesomeClassname: "simple-icons:react",
+    //       style: {
+    //         color: "#61DAFB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "NodeJS",
+    //       fontAwesomeClassname: "simple-icons:node-dot-js",
+    //       style: {
+    //         color: "#339933",
+    //       },
+    //     },
+    //     {
+    //       skillName: "NPM",
+    //       fontAwesomeClassname: "simple-icons:npm",
+    //       style: {
+    //         color: "#CB3837",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Yarn",
+    //       fontAwesomeClassname: "simple-icons:yarn",
+    //       style: {
+    //         color: "#2C8EBB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Gatsby",
+    //       fontAwesomeClassname: "simple-icons:gatsby",
+    //       style: {
+    //         color: "#663399",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Flutter",
+    //       fontAwesomeClassname: "simple-icons:flutter",
+    //       style: {
+    //         color: "#02569B",
+    //       },
+    //     },
+    //   ],
+    // },
     {
-      title: "Full Stack Development",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
-      ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-      ],
-    },
-    {
-      title: "Cloud Infra-Architecture",
+      title: "Product Development ",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Spearheading the development of scalable, industry-first AI/ML-based products.",
+
+        "⚡ Proficiency in architecting cloud-native applications and products seamlessly across AWS, Azure, and GCP platforms.",
+
+        "⚡ Mastery in constructing docker and Kubernetes-based solutions, ensuring scalability and efficiency in AI product development."
       ],
       softwareSkills: [
         {
@@ -620,8 +640,8 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "LLMs: Beyond the Hype - A Practical Journey to Scale",
-      subtitle: "Shashank Shekhar, Founder of AIOrdinate speaking at PyData Global 2023",
+      title: "Discusses strategies to optimize costs and enhance performance for LLMs",
+      subtitle: "Shashank Shekhar,speaking at PyData Global 2023",
       logo_path: "v1.jpg",
       certificate_link:
         "https://youtu.be/ooTelEWDUzA",
@@ -683,7 +703,7 @@ const experience = {
   title: "Career Summary",
   subtitle: "",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I possess a strong commercial acumen and thrive in executive leadership roles, particularly in strategic planning and data-driven decision-making. With over 16 years of experience as a Digitech leader, I have established Centers of Excellence (CoEs), led diverse global teams, and pioneered technology innovation, resulting in patents and publications. My expertise spans AI, ML, Big Data, and advanced analytics implementation, and my excellent interpersonal skills enable effective stakeholder engagement and team leadership across diverse cultural backgrounds, including India, USA, UAE, and Chile.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -1036,9 +1056,9 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "p2.jpeg",
     description:
-      "Connect with me on Linkedin. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "Please connect with me for 1x1 sessions, speaking sessions, panel discussions and workshops!",
   },
   blogSection: {
     title: "Blogs",

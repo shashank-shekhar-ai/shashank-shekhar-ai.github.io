@@ -1,6 +1,10 @@
 .contact-main {
   width: 100%;
 }
+.img--img{
+  border-radius: 50%;
+  height: 400px !important;
+}
 
 .basic-contact {
   margin-left: 5%;
@@ -36,6 +40,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 100px;
+  
 }
 
 .blog-heading-img-div {
