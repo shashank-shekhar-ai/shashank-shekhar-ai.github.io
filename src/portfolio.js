@@ -640,8 +640,8 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Discusses strategies to optimize costs and enhance performance for LLMs",
-      subtitle: "Shashank Shekhar,speaking at PyData Global 2023",
+      title: "LLMs: Beyond the Hype - A Practical Journey to Scale",
+      subtitle: "Shashank Shekhar discusses strategies to optimise costs and enhance performance for LLMs at PyData Global 2023",
       logo_path: "v1.jpg",
       certificate_link:
         "https://youtu.be/ooTelEWDUzA",
@@ -920,21 +920,7 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Python library exploripy for automated and comprehensive exploratory data analysis",
-      description: "Shashank Shekhar, Kunjithapatham Sivakumar, Sajan Bhagat",
-      url:
-        "https://github.com/exploripy/exploripy",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Python library Dominance-Analysis for Accurate and Intuitive Relative Importance of Predictors",
-      
-      description: "Shashank Shekhar, Kunjithapatham Sivakumar, Sajan Bhagat",
-      url:
-        "https://dominance-analysis.readthedocs.io/en/latest/",
-    },
+    
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
       name: "A PSO Based Method to Generate Actionable Counterfactuals for High Dimensional Data. arXiv e-prints, arXiv-2311 (presented at IEEE CSDE 2023, Fiji)",

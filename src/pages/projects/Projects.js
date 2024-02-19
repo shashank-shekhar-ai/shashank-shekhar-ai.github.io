@@ -16,6 +16,8 @@ import ProjectsData from "../../shared/opensource/projects.json";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
 
+import OpenData from "../../shared/opensource/open.json";
+
 class Projects extends Component {
   render() {
     const theme = this.props.theme;
@@ -61,6 +63,34 @@ class Projects extends Component {
           newTab={true}
           theme={theme}
         /> */}
+           {publications.data.length > 0 ? (
+          <div className="basic-projects">
+            <Fade bottom duration={2000} distance="40px">
+              <div className="publications-heading-div">
+                <div className="publications-heading-text-div">
+                  <h1
+                    className="publications-heading-text"
+                    style={{ color: theme.text }}
+                  >
+                    Opensource
+                  </h1>
+                  <p
+                    className="projects-header-detail-text subTitle"
+                    style={{ color: theme.secondaryText }}
+                  >
+                    I have worked on and contributed to few Opensource Projects.
+                  </p>
+                </div>
+              </div>
+            </Fade>
+          </div>
+        ) : null}
+
+    <div className="repo-cards-div-main">
+          {OpenData.data.map((repo) => {
+            return <GithubRepoCard repo={repo} theme={theme} />;
+          })}
+        </div>
 
         {/* Publications  */}
         {publications.data.length > 0 ? (
