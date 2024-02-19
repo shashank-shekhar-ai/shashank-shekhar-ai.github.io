@@ -918,6 +918,13 @@ const publicationsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
+const industryHeader = {
+  title: "Professional Associations & Other Industry Contributions",
+  description:
+    "",
+  avatar_image_path: "projects_image.svg",
+};
+
 const publications = {
   data: [
     
@@ -1035,6 +1042,44 @@ const publications = {
       url:
         "https://www.rtinsights.com/why-ai-is-the-catalyst-in-transforming-the-telecom-industry/",
     },
+  ],
+};
+
+
+//industry associations
+const industryAssociations = {
+  data: [
+    
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "Member - AIM Leader Council",
+      description: "(invitation only forum for senior data science and analytics executives) - since 2022",
+      url:
+        "https://www.linkedin.com/posts/aim-leaders-council_aimleaderscouncil-activity-6887259735343665152-I_dY?utm_source=share&utm_medium=member_desktop",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "Invited Member – Board of Studies",
+      description: "Centre of Excellence in Analytics and Data Science (COE-A&DS) of SVKM’s NMIMS,Deemed to be University, Mumbai – since 2021",
+      url:
+        "https://coe.nmims.edu/board-of-studies/",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "Selected Industry Expert/Mentor",
+      description: "Global Datathon (organised by Data Science Society, Bulgaria) - 2018 ",
+      url:
+        "https://www.datasciencesociety.net/employees/shashank-shekhar/",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "Selected Program Committee Member",
+      description: "13th International Conference on Machine Learning and Data Mining MLDM (one of 18 members selected from universities, research institutes and companies all over the world) – 2017",
+      url:
+        "https://link.springer.com/content/pdf/bfm:978-3-319-62416-7/1.pdf",
+    },
+    
+   
   ],
 };
 
@@ -1160,6 +1205,8 @@ const awards = {
 };
 
 export {
+  industryAssociations,
+  industryHeader,
   settings,
   seo,
   greeting,
