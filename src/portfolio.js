@@ -78,7 +78,7 @@ const socialMediaLinks = [
   },
   {
     name: "Topmate",
-    link: "mailto:quintshekhar@gmail.com",
+    link: "https://topmate.io/shashank_shekhar_ai",
     fontAwesomeIcon: "fa-solid fa-c", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=gmail
   },
