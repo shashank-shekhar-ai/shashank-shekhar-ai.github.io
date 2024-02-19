@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Experienced and accomplished executive with 16+ years’ experience in Digitech and a focus on leveraging advanced and  emerging technologies like Artificial Intelligence (AI), Machine Learning (ML), Data Engineering, Deep Learning, and Computer Vision for use in B2C and B2B.",
   resumeLink:
-    "https://drive.google.com/file/d/102TUowPUkb-0CaYqGNPMQSdKPdlyWrLh/view?usp=sharing",
+    "https://drive.google.com/file/d/1ePMFQWFfpe9AThq1koMz7SglLJb52Zwk/view?usp=sharing",
   portfolio_repository: "#",
   githubProfile: "#",
 };
