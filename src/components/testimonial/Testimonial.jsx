@@ -97,7 +97,7 @@ function Testimonial(props) {
               <div className="head--test--box">
                 <h5 className="card-title title--test">Samuel Pritchett</h5>
                 <p className="card-text designation--test">
-                Head of Channel Strategy and Analytics,Atlassian
+                Head of Channel Strategy and Analytics, Atlassian
                 </p>
               </div>
             </div>
