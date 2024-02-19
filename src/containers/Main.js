@@ -38,13 +38,13 @@ export default class Main extends Component {
             )}
           />
           <Route
-            path="/education"
+            path="/talks"
             render={(props) => (
               <Education {...props} theme={this.props.theme} />
             )}
           />
           <Route
-            path="/opensource"
+            path="/awards"
             render={(props) => (
               <Opensource {...props} theme={this.props.theme} />
             )}
@@ -62,7 +62,7 @@ export default class Main extends Component {
           )}
 
           <Route
-            path="/projects"
+            path="/publication"
             render={(props) => <Projects {...props} theme={this.props.theme} />}
           />
           <Route

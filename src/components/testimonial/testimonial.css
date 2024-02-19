@@ -1,0 +1,37 @@
+.maint--container{
+    padding-top: 2rem;
+}
+.head--test-h{
+    padding-bottom: 2rem;
+}
+.img--div{
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+}
+.imgg--src{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+}
+
+.head--test--box{
+  
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+.designation--test{
+    color: grey;
+    line-height: 1.2rem;
+}
+
+.body--test{
+    border:none
+}
+.text--hun{
+    font-size: 14px;
+    line-height: 1rem;
+}
+.card--hun{
+    height: 70vh;
+}
