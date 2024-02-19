@@ -29,9 +29,14 @@
     border:none
 }
 .text--hun{
-    font-size: 14px;
-    line-height: 1rem;
+    font-size: 18px;
+    line-height: 1.3rem;
 }
 .card--hun{
-    height: 70vh;
+   max-height: 150vh;
+}
+
+
+.bttn{
+    color: black !important;
 }
