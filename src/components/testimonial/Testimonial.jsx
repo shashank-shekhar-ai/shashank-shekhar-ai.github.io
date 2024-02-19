@@ -93,6 +93,35 @@ function Testimonial(props) {
         <div className="col">
           <div className="card card--hun">
             <div className="img--div">
+              <img src={img1} className="card-img-top imgg--src" alt="..." />
+              <div className="head--test--box">
+                <h5 className="card-title title--test">
+                  Vinod Kumar Padmanabhan
+                </h5>
+                <p className="card-text designation--test">
+                  Chief Executive Officer, Subex
+                </p>
+              </div>
+            </div>
+            <div className="card-body body--test">
+              <p className="card-text text--hun">
+                Shashank possesses the ideal blend of technical and leadership
+                skills, which he adeptly utilised to lead our AI Labs team at
+                Subex to become one of the best in the market. Under his
+                guidance, the AI lab has grown significantly, yielding
+                groundbreaking AI-first products and establishing a distinctive
+                brand identity for Subex AI Labs. Shashank's transformative
+                influence has solidified Subex as an AI-led company.
+                Furthermore, his talent acquisition strategy stands out, as he
+                not only recruited but also nurtured and retained top industry
+                talents, cultivating a dynamic and innovative team culture.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col">
+          <div className="card card--hun">
+            <div className="img--div">
               <img src={img3} className="card-img-top imgg--src" alt="..." />
               <div className="head--test--box">
                 <h5 className="card-title title--test">Samuel Pritchett</h5>
