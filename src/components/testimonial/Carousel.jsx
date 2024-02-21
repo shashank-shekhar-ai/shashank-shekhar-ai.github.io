@@ -19,10 +19,11 @@ function Carousel(props) {
         </h1>
       </Fade>
 
-      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
-          <div className="row align-items-start">
-            <div class="carousel-item active ">
+      
+      <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+  <div className="row align-items-start">
+  <div class="carousel-item active ">
               <div className="col">
                 <div className="card card--hun">
                   <div className="img--div">
@@ -54,23 +55,6 @@ function Carousel(props) {
                       has been exemplary. He not only hired but also developed
                       and retained the best minds in the industry and from
                       campuses, fostering a dynamic and innovative team culture.
-                      {/* Under Shashank's guidance, Subex AI Labs has become
-                      synonymous with innovation. His commitment to intellectual
-                      contributions is evident through patent filings,
-                      publications in top ABDC listed journals, and active
-                      engagement in the open-source community. Shashank's
-                      presence at industry summits and conferences further
-                      solidified Subex AI Labs as a thought leader in the field.
-                      He has successfully created a distinct brand identity for
-                      Subex AI Labs, both within the organization and in the
-                      broader university as well as industry landscape. His
-                      strategic approach to branding has elevated the reputation
-                      of our AI division, contributing significantly to our
-                      overall success. In summary, Shashank's leadership at
-                      Subex AI Labs has been transformative, driving innovation,
-                      fostering a talented team, that helped Subex as an AI led
-                      Products company. I whole heartedly recommend Shashank for
-                      any leadership position in this burgeoning Industry. */}
                     </p>
                   </div>
                 </div>
@@ -178,11 +162,23 @@ function Carousel(props) {
                 </div>
               </div>
             </div>
-          </div>
-          
-        </div>
-      </div>
-    </div>
+  </div>
+  </div>
+  <button class="carousel-control-prev btn--test--class-left" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next btn--test--class-right" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+
+
+     
+  
+    </div> 
   );
 }
 
