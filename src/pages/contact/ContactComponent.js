@@ -44,12 +44,12 @@ class Contact extends Component {
                 >
                   {ContactData["description"]}
                 </p>
-                <SocialMedia theme={theme} />
+                {/* <SocialMedia theme={theme} /> */}
                 <div className="resume-btn-div">
                   <Button
-                    text="See My Resume"
+                    text="Book on Topmate"
                     newTab={true}
-                    href={greeting.resumeLink}
+                    href="https://topmate.io/shashank_shekhar_ai"
                     theme={theme}
                   />
                 </div>
