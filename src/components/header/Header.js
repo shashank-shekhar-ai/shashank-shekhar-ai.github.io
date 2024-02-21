@@ -100,14 +100,14 @@ class Header extends Component {
              
               <li>
                 <NavLink
-                  to="/contact"
+                  to="/bookasession"
                   tag={Link}
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Contact Me
+                  Book a Session
                 </NavLink>
               </li>
             </ul>

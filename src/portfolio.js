@@ -1086,7 +1086,7 @@ const industryAssociations = {
 // Contact Page
 const contactPageData = {
   contactSection: {
-    title: "Contact Me",
+    title: "Book A Session",
     profile_image_path: "p2.jpeg",
     description:
       "Please connect with me for 1x1 sessions, speaking sessions, panel discussions and workshops!",

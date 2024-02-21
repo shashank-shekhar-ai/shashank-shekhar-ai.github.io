@@ -50,7 +50,7 @@ export default class Main extends Component {
             )}
           />
           <Route
-            path="/contact"
+            path="/bookasession"
             render={(props) => <Contact {...props} theme={this.props.theme} />}
           />
 
