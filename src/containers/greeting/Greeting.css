@@ -4,6 +4,12 @@
   margin: 0px auto;
   margin-top: 4rem;
 }
+.front---img{
+  height: auto !important;
+  width: 90%;
+  /* margin-left: 5rem; */
+  border-radius: 50%;
+}
 .greet-main {
   width: 90%;
   padding: 20px 10px;
