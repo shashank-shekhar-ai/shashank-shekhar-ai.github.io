@@ -383,6 +383,18 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
+      title: "Invited Speaker - W.Media - Global Melbourne Data and Cloud Convention",
+      subtitle: "Our Principal Ordinate, Shashank Shekhar, delivered an inspiring keynote on 'Unlocking the Ethical Implications of Generative AI'– 2024",
+      logo_path: "aus.jpg",
+      alt_name: "",
+      duration: "",
+      descriptions: [
+        "⚡",
+        
+      ],
+      website_link: "https://www.linkedin.com/posts/aiordinate_aiordinate-generativeai-ethicalai-activity-7188386106411749376-atpD?utm_source=share&utm_medium=member_desktop",
+    },
+    {
       title: "Invited Panellist - Shaastra, IIT Madras",
       subtitle: "Ethical Tech Summit (Integration of Ethical Ideas in Emerging Tech)– 2024",
       logo_path: "p1.jpg",
